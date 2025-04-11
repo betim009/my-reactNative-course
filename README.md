@@ -1,11 +1,9 @@
 # my-reactNative-course
 
+    npx create-expo-app@latest name_project
 
+    cd name_project
 
-npx create-expo-app@latest name_project
+    npm run reset-project
 
-cd name_project
-
-npm run reset-project
-
-npx expo start
+    npx expo start
